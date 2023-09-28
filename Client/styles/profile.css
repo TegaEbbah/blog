@@ -1,0 +1,87 @@
+.profileInfo {
+    /* border: 1px solid black; */
+    margin-bottom: 2rem;
+}
+
+.profileH2 {
+    margin: 0;
+    margin-top: 3rem;
+    padding: 0;
+}
+
+
+.editProfile {
+    background-color: rgb(126, 99, 66);
+    color: #fff;
+    padding: 0.5rem 2rem;
+    border: none;
+    border-radius: 0.5675rem;
+
+    font-family: 'poppins';
+    font-weight: 300;
+    font-size: 1rem;
+}
+
+
+.eachUserBlogContainer {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.eachUserBlog {
+    width: 60%;
+}
+
+.blogs {
+    font-family: 'poppins';
+    font-size: 2rem;
+    font-weight: 200;
+    text-align: center;
+    margin-bottom: 3rem;
+
+}
+
+.blogsTitle {
+    font-family: 'poppins';
+    margin-bottom: 7rem;
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.blogsContent {
+    font-family: 'poppins';
+    font-size: 1rem;
+    font-weight: 100;
+
+}
+
+.editBtnContainer {
+    margin-top: 1rem;
+    width: 100%;
+    text-align: right;
+    padding-right: 1rem;
+
+
+
+}
+
+
+
+.editBlog {
+    font-family: 'poppins';
+    font-weight: 300;
+    color: #fff;
+    font-size: 1rem;
+
+
+    padding: 0.5rem 3rem;
+    border-radius: 0.5675rem;
+    background-color: rgb(126, 99, 66);
+    border: none;
+
+}

@@ -1,0 +1,80 @@
+.blogContainer {
+    /* border: 1px solid black; */
+    padding: 2rem;
+    width: 53%;
+    margin: 2rem;
+    /* box-shadow: 0px 4px 63px 0px rgba(0, 0, 0, 0.15); */
+    box-shadow: 8px 5px 28px -4px rgba(128, 128, 128, 0.75);
+    -webkit-box-shadow: 8px 5px 28px -4px rgba(128, 128, 128, 0.75);
+    -moz-box-shadow: 8px 5px 28px -4px rgba(128, 128, 128, 0.75);
+    border-radius: 0.625rem;
+
+}
+
+.viewButton {
+    font-family: 'poppins';
+    font-weight: 300;
+    color: #fff;
+
+
+    padding: 0.8rem 2rem;
+    border-radius: 0.5675rem;
+    /* background-color: bisque; */
+    background-color: rgb(126, 99, 66);
+    border: none;
+}
+
+.buttonContainer {
+    width: 100%;
+    text-align: right;
+
+}
+
+
+.blogTitle {
+    font-size: 26px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.blogAuthor {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 20px 0px;
+}
+
+
+.blogContent {
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0px;
+    margin-bottom: 1.5rem;
+    text-align: justify;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+}
+
+
+
+
+.addBlog {
+
+    position: fixed;
+    bottom: 4rem;
+    right: 2rem;
+    padding: 16px 32px;
+    background-color: rgb(164, 164, 163);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    font-family: 'poppins';
+    font-size: 1rem;
+    font-weight: 600;
+
+    border-radius: 30px;
+
+}

@@ -1,0 +1,30 @@
+textarea {
+    width: 100%;
+    margin-top: 1rem;
+    padding: 1rem;
+}
+
+.postButtonContainer {
+    padding-right: 4rem;
+    margin-bottom: 2rem;
+}
+
+.postButton {
+    font-family: 'poppins';
+    font-weight: 200;
+
+
+    padding: 0.8rem 2rem;
+    border-radius: 0.5675rem;
+    color: #fff;
+    background-color: rgb(126, 99, 66);
+    border: none;
+    font-size: 1rem;
+
+    transition: 0.5s ease;
+}
+
+.postbutton :hover {
+    transform: scale(1.1);
+    background-color: rgb(255, 199, 130);
+}
